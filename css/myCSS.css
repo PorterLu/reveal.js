@@ -1,0 +1,12 @@
+.MyTitle {
+  text-align: left;
+  position: absolute;
+  left: 2px;
+  top: 2px;
+  font-size: 24px;
+}
+
+.MySeparator {
+  border-bottom: 1px solid #ccc;
+}
+
